@@ -5,11 +5,11 @@ Este repositório contém o desenvolvimento de um framework modular para realiza
 Este projeto faz parte de um Trabalho de Conclusão de Curso (TCC) voltado para a área de segurança ofensiva em IA, com foco na criação de um framework que permite simular ataques adversariais e explorar as fraquezas de modelos de linguagem.
 
 ### Estrutura do Repositório
-/src: Contém o código dos módulos de ataque desenvolvidos.
-/docs: Documentação sobre a arquitetura do framework, como usar o sistema, e tutoriais adicionais.
-/tests: Scripts de teste para validar os módulos.
-/research: Documentos de pesquisa e relatórios teóricos que sustentam o desenvolvimento do framework.
-requirements.txt: Arquivo de dependências que lista todas as bibliotecas necessárias para rodar o projeto.
+* **/src:** Contém o código dos módulos de ataque desenvolvidos.
+* **/docs:** Documentação sobre a arquitetura do framework, como usar o sistema, e tutoriais adicionais.
+* **/tests:** Scripts de teste para validar os módulos.
+* **/research:** Documentos de pesquisa e relatórios teóricos que sustentam o desenvolvimento do framework.
+* **requirements.txt:** Arquivo de dependências que lista todas as bibliotecas necessárias para rodar o projeto.
 README.md: Instruções gerais do projeto, como configurar o ambiente e utilizar o framework.
 
 ### Instalação
