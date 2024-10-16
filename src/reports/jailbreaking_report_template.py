@@ -18,7 +18,7 @@ class JailbreakingReport:
         self.model_name = model_name
         self.report_file = report_file
         self.start_time = datetime.now()
-        self.results = []  # Armazena os resultados de cada teste
+        self.results = [] 
 
     def create_report(self):
         """
