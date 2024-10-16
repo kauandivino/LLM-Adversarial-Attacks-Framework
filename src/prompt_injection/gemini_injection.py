@@ -12,7 +12,7 @@ from src.reports.template_ethics_report import EthicsReportGenerator
 
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..', '..')))
 
-genai.configure(api_key="AIzaSyDubPrAn-KE0PIgVELk9LE_dyfJnAYsvME")
+genai.configure(api_key="API_KEY")
 
 model = genai.GenerativeModel(model_name="gemini-1.5-flash")
 
