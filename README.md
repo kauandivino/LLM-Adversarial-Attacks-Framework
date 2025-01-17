@@ -1,8 +1,14 @@
 # LLM-Adversarial-Attacks-Framework
 ### Descrição
-Este repositório contém o desenvolvimento de um framework modular para realizar ataques adversariais em Modelos de Linguagem Grandes (LLMs), como GPT-4, BERT, e LLaMA. O objetivo do projeto é explorar vulnerabilidades em LLMs por meio de técnicas de ataque automatizadas, incluindo prompt injection, jailbreaking, data poisoning, backdoor attacks, e ataques multimodais.
+Este repositório apresenta o desenvolvimento de um framework modular para executar ataques adversariais em Modelos de Linguagem Grandes (LLMs), como GPT-4, BERT e LLaMA. O principal objetivo é identificar e explorar vulnerabilidades nesses modelos utilizando técnicas automatizadas de ataque, incluindo:
 
-Este projeto faz parte de um Trabalho de Conclusão de Curso (TCC) voltado para a área de ataques adversariais em modelos de linguagem, com foco na criação de um framework que permite simular ataques adversariais e explorar as fraquezas de modelos de linguagem.
+* Prompt Injection
+* Jailbreaking
+* Data Poisoning
+* Backdoor Attacks
+* Ataques Multimodais
+
+O projeto integra o Trabalho de Conclusão de Curso (TCC) e busca contribuir para a área de segurança em modelos de linguagem, com foco no desenvolvimento de um framework que permita simular e estudar ataques adversariais, promovendo um entendimento mais profundo sobre as fragilidades desses sistemas.
 
 ### Estrutura do Repositório
 * **/src:** Contém o código dos módulos de ataque desenvolvidos.
